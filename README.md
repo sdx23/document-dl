@@ -31,6 +31,7 @@ regularly using a cron job so documents are downloaded automatically.
   * kabel.vodafone.de
   * conrad.de
   * elster.de
+  * smartbroker.de
   * strato.de
 
 
@@ -111,6 +112,8 @@ Commands:
   ing       banking.ing.de with photoTAN (postbox)
   o2        o2online.de (invoices/postbox)
   strato    strato.de (invoices)
+  smartbroker
+  			smartbroker.de (postbox)
   vodafone  kabel.vodafone.de (postbox, invoices)
 ```
 
