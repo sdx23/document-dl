@@ -108,6 +108,8 @@ Options:
 Commands:
   amazon    Amazon (invoices)
   conrad    conrad.de (invoices)
+  commerzbank
+            commerzbank.de (postbox)
   dkb       dkb.de with chipTAN QR (postbox)
   elster    elster.de with path to .pfx certfile as username (postbox)
   ing       banking.ing.de with photoTAN (postbox)

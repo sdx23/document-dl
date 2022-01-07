@@ -26,6 +26,7 @@ setup(
     entry_points={
         'docdl_plugins': [
             'amazon=docdl.plugins.amazon:amazon',
+            'commerzbank=docdl.plugins.commerzbank:commerzbank',
             'conrad=docdl.plugins.conrad:conrad',
             'dkb=docdl.plugins.dkb:dkb',
             'elster=docdl.plugins.elster:elster',
